@@ -1,4 +1,4 @@
-# ❤️ Yu-Gi-Oh! Forbidden Legacy — 999,999,999 Life Points Tool
+# Yu-Gi-Oh! Forbidden Legacy — 999,999,999 Life Points Tool
 
 > **Take control of your Life Points and make every duel easier.**
 
@@ -12,7 +12,7 @@ Whether you are progressing through Story Mode, testing decks in Free Duel, runn
 
 With an extremely large Life Point reserve, you can focus more on experimenting with cards, Fusion combinations, deck strategies, and game progression.
 
-## ⚡ Features
+## Features
 
 | Feature / Mode | Support |
 |---|:---:|
@@ -26,7 +26,7 @@ With an extremely large Life Point reserve, you can focus more on experimenting 
 | ⏱️ Reduced grinding pressure | ✅ |
 | 🖥️ Windows PC | ✅ |
 
-## ❤️ 999,999,999 Life Points
+## 999,999,999 Life Points
 
 The core feature is straightforward:
 
@@ -63,7 +63,7 @@ More time to play, test, and experiment ✅
 
 > No more worrying about losing a supported duel simply because your Life Points reached zero.
 
-## 🎮 Supported game modes
+## Supported game modes
 
 The tool is designed to support several game modes in **Yu-Gi-Oh! Forbidden Legacy**.
 
@@ -74,31 +74,31 @@ The tool is designed to support several game modes in **Yu-Gi-Oh! Forbidden Lega
 | 🤖 Auto Duel | Reduces the risk of losing during longer automated battles |
 | 🏆 Tournament Mode | Makes tournament runs easier and more convenient |
 
-### 📖 Story Mode
+### Story Mode
 
 Use the tool while progressing through Story Mode to give yourself more room to recover from difficult situations.
 
 It can be useful for players who want to focus on story progression, try different deck ideas, replay battles, or reduce the impact of particularly challenging opponents.
 
-### ⚔️ Free Duel
+### Free Duel
 
 Free Duel is a good place to experiment with cards, deck builds, and Fusion combinations.
 
 With a massive Life Point advantage, you can spend more time observing how your deck performs instead of worrying about losing before a strategy has time to develop.
 
-### 🤖 Auto Duel
+### Auto Duel
 
 Auto Duel can be convenient for routine battles, but automated duels can still be lost when the deck or AI does not perform as expected.
 
 The Life Points boost provides an additional safety buffer while the game handles the duel automatically.
 
-### 🏆 Tournament Mode
+### Tournament Mode
 
 Tournament runs can require many consecutive wins and may become frustrating when a single difficult duel interrupts progress.
 
 With boosted Life Points, supported Tournament Mode battles become more forgiving and easier to complete.
 
-## 🚀 Why use this tool?
+## Why use this tool?
 
 The 999,999,999 Life Points Tool is designed for players who want a more relaxed, experimental, and convenient gameplay experience.
 
@@ -127,7 +127,7 @@ More freedom to experiment
 More enjoyable duels
 ```
 
-## 🔧 How it works
+## How it works
 
 The tool is designed to detect the running **Yu-Gi-Oh! Forbidden Legacy** game process and apply a Life Point modification to the player during supported duels.
 
@@ -154,7 +154,7 @@ Launch Yu-Gi-Oh! Forbidden Legacy
 
 > **Important:** Make sure the game is already running before launching or using the tool.
 
-## 📥 Installation and usage
+## Installation and usage
 
 1. Download the latest release from the **GitHub Releases** page.
 2. Extract the downloaded file if it is provided as an archive.
@@ -174,7 +174,7 @@ If the tool cannot detect the game process, check the following:
 - The tool has sufficient permission to access the game process.
 - You are running both the game and the tool at the same permission level.
 
-## 🖥️ Compatibility
+## Compatibility
 
 The tool is designed for the following setup:
 
@@ -188,7 +188,7 @@ The tool is designed for the following setup:
 
 > Compatibility may vary if the game receives updates, if its internal data structure changes, or if you are using a modified executable.
 
-## 🛠️ Fan-made project notice
+## Fan-made project notice
 
 This is an unofficial fan-made utility created for the **Yu-Gi-Oh! Forbidden Legacy** community.
 
@@ -198,7 +198,7 @@ This project is not affiliated with, sponsored by, endorsed by, or officially co
 
 **Yu-Gi-Oh!**, related characters, card names, game assets, artwork, and trademarks belong to their respective owners.
 
-## ❤️ Final words
+## Final words
 
 ```text
 Standard Life Points:      8000
