@@ -1,4 +1,4 @@
-# 💀 Yu-Gi-Oh! Forbidden Legacy — NPC Life Points 0 Tool
+# Yu-Gi-Oh! Forbidden Legacy — NPC Life Points 0 Tool
 
 > **Set your opponent's Life Points to 0 and finish supported duels faster.**
 
@@ -13,7 +13,7 @@ NPC Life Points: 1000 ❌
 NPC Life Points:    0 ✅
 ```
 
-## ⚡ Features
+## Features
 
 | Feature | Support |
 |---|:---:|
@@ -26,7 +26,7 @@ NPC Life Points:    0 ✅
 | 🃏 Deck and card testing | ✅ |
 | 🖥️ Windows PC | ✅ |
 
-## 💀 NPC Life Points = 0
+## NPC Life Points = 0
 
 The main purpose of the tool is simple:
 
@@ -43,7 +43,7 @@ This can significantly reduce the time required for repetitive duels, grinding s
 
 > Spend less time repeating duels. Spend more time progressing, experimenting, and enjoying the game.
 
-## 🎮 Supported game modes
+## Supported game modes
 
 The tool is intended to work with supported duel types in **Yu-Gi-Oh! Forbidden Legacy**.
 
@@ -60,25 +60,25 @@ Story Mode can involve repeated duels, difficult opponents, or battles that slow
 
 With the NPC Life Points 0 Tool, supported NPC duels can be completed much faster, making it useful for players who want to focus on unlocking content, progressing through events, or continuing the story.
 
-### ⚔️ Free Duel
+### Free Duel
 
 Free Duel is ideal for experimenting with decks, cards, and strategies.
 
 The tool can help shorten the time needed to finish supported test duels, especially when you only want to verify card interactions, deck flow, animations, or basic gameplay behavior.
 
-### 🤖 Auto Duel
+### Auto Duel
 
 Auto Duel can be convenient, but waiting for repeated matches to finish may become time-consuming.
 
 By setting the NPC opponent's Life Points to 0 in supported duels, the tool can reduce the time spent watching automated battles play out.
 
-### 🏆 Tournament Mode
+### Tournament Mode
 
 Tournament runs often require clearing multiple duels in sequence.
 
 The tool helps reduce repetitive match time, allowing you to progress through supported tournament battles more quickly.
 
-## 🚀 Why use this tool?
+## Why use this tool?
 
 This utility is designed for players who want to reduce unnecessary grinding and keep their time focused on the parts of the game they enjoy most.
 
@@ -103,7 +103,7 @@ Faster duels
 More time for decks, cards, and progression
 ```
 
-## 🔧 How it works
+## How it works
 
 The tool detects the running **Yu-Gi-Oh! Forbidden Legacy** game process and applies the Life Point modification to the NPC opponent during supported duels.
 
@@ -130,7 +130,7 @@ Launch Yu-Gi-Oh! Forbidden Legacy
 
 > **Important:** Make sure Yu-Gi-Oh! Forbidden Legacy is already running before launching or using the tool.
 
-## 📥 Installation and usage
+## Installation and usage
 
 1. Download the latest release from the **GitHub Releases** page.
 2. Extract the downloaded archive if necessary.
@@ -149,7 +149,7 @@ If the tool cannot detect the game, verify that:
 - The game executable has not been renamed or modified in a way that prevents process detection.
 - The tool has sufficient permissions to access the game process.
 
-## 🖥️ Compatibility
+## Compatibility
 
 The NPC Life Points 0 Tool is designed for the following environment:
 
@@ -162,7 +162,7 @@ The NPC Life Points 0 Tool is designed for the following environment:
 
 > Compatibility can vary depending on updates to the game, changes to memory layout, executable modifications, or differences between game versions.
 
-## 🛠️ Fan-made project notice
+## Fan-made project notice
 
 This is an unofficial fan-made utility created for the **Yu-Gi-Oh! Forbidden Legacy** community.
 
@@ -172,7 +172,7 @@ It is not affiliated with, sponsored by, endorsed by, or officially connected to
 
 This project is intended for fan-made gameplay experimentation and convenience within supported game environments.
 
-## 💀 Final words
+## Final words
 
 ```text
 NPC LP: 8000 ❌
@@ -183,4 +183,4 @@ NPC LP:    0 ✅
 
 Why spend time grinding when the answer can simply be:
 
-> **0 LP. 💀**
+> **0 LP.**
