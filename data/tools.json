@@ -44,26 +44,25 @@
         "updated_at": "2026-09-10"
     },
     {
-        "slug": "efi-backup-manager",
-        "title": "EFI Backup Manager",
-        "description": "A lightweight utility for creating dated EFI backups, comparing versions, and restoring a known working configuration.",
-        "category": "EFI Management",
+        "slug": "npc-lifepoint-zero",
+        "title": "NPC LifePoint Zero",
+        "description": "The Yu-Gi-Oh! Forbidden Legacy NPC Life Points 0 Tool is a fan-made utility that allows you to set the NPC's Life Points to 0, making supported duels significantly faster and reducing repetitive grinding.",
+        "category": "Yugioh Game",
         "type": "Desktop Utility",
         "platforms": [
-            "Windows",
-            "macOS"
+            "Windows"
         ],
-        "price": "Coming soon",
+        "price": "Contact for price",
         "is_free": false,
-        "status": "coming-soon",
-        "version": "In development",
-        "image": "",
+        "status": "available",
+        "version": "1.0.0",
+        "image": "images/tools/npc-lifepoint-zero.webp",
         "content": "tools/efi-backup-manager.md",
-        "download_url": "",
-        "github_url": "",
-        "website_url": "",
-        "featured": false,
+        "download_url": "https://cuty.io/NPCLife0",
+        "github_url": "https://github.com/ihackinOS/npc-lifepoint-0-yugioh",
+        "website_url": "https://hackinOS.com",
+        "featured": true,
         "published": true,
-        "updated_at": "2026-09-04"
+        "updated_at": "2026-09-10"
     }
 ]
