@@ -54,7 +54,7 @@
         ],
         "price": "Contact for price",
         "is_free": false,
-        "status": "available",
+        "status": "Available",
         "version": "1.0.0",
         "image": "images/tools/npc-lifepoint-zero.webp",
         "content": "tools/npc-lifepoint-zero.md",
