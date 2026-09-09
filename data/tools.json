@@ -64,5 +64,27 @@
         "featured": true,
         "published": true,
         "updated_at": "2026-09-10"
+    },
+    {
+        "slug": "player-unlimited-lifepoint",
+        "title": "Player Unlimited Lifepoint",
+        "description": "The Yu-Gi-Oh! Forbidden Legacy 999,999,999 Life Points Tool is a fan-made utility designed to give your duels an enormous Life Point boost — up to 999,999,999 LP.",
+        "category": "Yugioh Game",
+        "type": "Desktop Utility",
+        "platforms": [
+            "Windows"
+        ],
+        "price": "Contact for price",
+        "is_free": false,
+        "status": "Available",
+        "version": "1.0.0",
+        "image": "images/tools/player-unlimited-lifepoint.webp",
+        "content": "tools/player-unlimited-lifepoint.md",
+        "download_url": "https://cuty.io/NPCLife0",
+        "github_url": "https://github.com/ihackinOS/unlimited-lifepoint-yugioh",
+        "website_url": "https://hackinOS.com",
+        "featured": true,
+        "published": true,
+        "updated_at": "2026-09-10"
     }
 ]
