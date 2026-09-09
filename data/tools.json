@@ -24,10 +24,10 @@
         "updated_at": "2026-09-04"
     },
     {
-        "slug": "opencore-config-assistant",
-        "title": "OpenCore Config Assistant",
-        "description": "A utility for reviewing OpenCore configuration files, organizing patches, and checking common setup mistakes.",
-        "category": "Configuration Tools",
+        "slug": "card-fusion-explorer",
+        "title": "Card Fusion Explorer",
+        "description": "A visual desktop companion for exploring a large fan-made card database—not as a spreadsheet, but as a living, connected card collection.",
+        "category": "Yugioh Game",
         "type": "Desktop Utility",
         "platforms": [
             "Windows"
@@ -35,9 +35,9 @@
         "price": "Free",
         "is_free": true,
         "status": "available",
-        "version": "0.9.0",
-        "image": "images/tools/opencore-config-assistant.webp",
-        "content": "tools/opencore-config-assistant.md",
+        "version": "1.0.0",
+        "image": "images/tools/card-fusion-explorer.webp",
+        "content": "tools/card-fusion-explorer.md",
         "download_url": "",
         "github_url": "",
         "website_url": "",
