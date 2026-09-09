@@ -8,8 +8,8 @@
         "platforms": [
             "Windows"
         ],
-        "price": "Contact for price",
-        "is_free": false,
+        "price": "free",
+        "is_free": true,
         "status": "available",
         "version": "1.0.0",
         "image": "images/tools/hackinos-builder-pro.webp",
