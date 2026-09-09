@@ -1,0 +1,41 @@
+[
+    {
+        "slug": "ga-h81m-s2ph",
+        "title": "Gigabyte H81M S2PH",
+        "description": "A curated OpenCore EFI configuration for the Gigabyte GA-H81M-S2PH with Intel Hasswell and Intel HD Graphics.",
+        "cover": "images/efi/ga-h81m-s2ph-cover.webp",
+        "banner": "images/efi/ga-h81m-s2ph-banner.webp",
+        "platform": "Desktop",
+        "brand": "Gigabyte",
+        "model": "GA-H81-S2PH",
+        "cpu": "Intel Haswell",
+        "gpu": "Intel HD Graphics",
+        "motherboard": "Intel H81",
+        "macos": [
+            "Tahoe",
+            "Sequoia",
+            "Sonoma",
+            "Ventura",
+            "Monterey",
+            "Bigsur",
+            "Catalina",
+            "Mojave",
+            "High Sierra"
+        ],
+        "status": "stable",
+        "working": [
+            "Wi-Fi",
+            "Bluetooth",
+            "Audio",
+            "Sleep",
+            "Battery"
+        ],
+        "guide": "efi-guides/ga-h81m-s2ph.md",
+        "download_url": "https://github.com/ihackinOS/your-efi-repository/releases/download/v1.0/dell-latitude-7490-efi.zip",
+        "version": "1.0.0",
+        "opencore_version": "1.0.5",
+        "updated_at": "2026-09-04",
+        "published": true,
+        "featured": true
+    }
+]

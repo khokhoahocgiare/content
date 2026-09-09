@@ -1,0 +1,21 @@
+{
+    "schema_version": 1,
+    "site_name": "HackinOS Content",
+    "updated_at": "2026-09-04T01:30:00+07:00",
+    "content_base_url": "https://raw.githubusercontent.com/ihackinOS/hackinos-content/main",
+    "indexes": {
+        "courses": "data/courses.json",
+        "efi": "data/efi.json",
+        "games": "data/games.json",
+        "guides": "data/guides.json",
+        "site": "data/site.json",
+        "tools": "data/tools.json",
+        "youtube": "data/youtube.json",
+        "yugioh-forbidden-legacy-downloads": "data/yugioh-forbidden-legacy-downloads.json",
+        "yugioh-forbidden-legacy-guides": "data/yugioh-forbidden-legacy-guides.json",
+        "yugioh-forbidden-legacy-tools": "data/yugioh-forbidden-legacy-tools.json",
+        "yugioh-eternal-echoes-downloads": "data/yugioh-eternal-echoes-downloads.json",
+        "yugioh-eternal-echoes-guides": "data/yugioh-eternal-echoes-guides.json",
+        "yugioh-eternal-echoes-tools": "data/yugioh-eternal-echoes-tools.json"
+    }
+}

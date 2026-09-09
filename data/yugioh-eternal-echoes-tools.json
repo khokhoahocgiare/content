@@ -1,0 +1,30 @@
+[
+    {
+        "slug": "mod-manager",
+        "title": "Yu-Gi-Oh! Eternal Echoes Manager",
+        "description": "Install, enable, disable, and validate community mods for your local game installation.",
+        "category": "Modding",
+        "type": "Utility",
+        "content": "game-tools/yugioh-eternal-echoes/mod-manager.md",
+        "image": "images/games/yugioh-eternal-echoes/tool-mod-manager.webp",
+        "download_url": "",
+        "github_url": "",
+        "published": true,
+        "featured": true,
+        "updated_at": "2026-09-04"
+    },
+    {
+        "slug": "save-editor",
+        "title": "Save Editor",
+        "description": "A local save-data utility for testing, backup, and restoring supported game profiles.",
+        "category": "Utilities",
+        "type": "Utility",
+        "content": "game-tools/yugioh-eternal-echoes/save-editor.md",
+        "image": "",
+        "download_url": "",
+        "github_url": "",
+        "published": true,
+        "featured": false,
+        "updated_at": "2026-09-04"
+    }
+]

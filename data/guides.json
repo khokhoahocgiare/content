@@ -1,0 +1,14 @@
+[
+    {
+        "slug": "run-macos-on-ipad",
+        "title": "Run macOS On iPad",
+        "description": "With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final Cut Pro, Logic Pro, and Pixelmator Pro to run directly on device.",
+        "category": "News",
+        "level": "Others",
+        "content": "guides/run-macos-on-ipad.md",
+        "image": "images/guides/run-macos-on-ipad.webp",
+        "published": true,
+        "featured": true,
+        "updated_at": "2026-09-04"
+    }
+]

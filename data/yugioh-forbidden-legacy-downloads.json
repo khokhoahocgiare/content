@@ -1,0 +1,34 @@
+[
+    {
+        "id": "latest-build",
+        "title": "Latest Game Build",
+        "description": "The latest public build of Yu-Gi-Oh! Forbidden Legacy for Windows.",
+        "category": "Game Client",
+        "version": "0.1.0",
+        "platform": "Windows",
+        "size": "1.2 GB",
+        "updated_at": "2026-09-04",
+        "download_url": "",
+        "mirror_url": "",
+        "changelog_url": "",
+        "requires": "Windows 10 or newer",
+        "published": true,
+        "featured": true
+    },
+    {
+        "id": "starter-card-pack",
+        "title": "Starter Card Pack",
+        "description": "Base card data and starter content required by the current build.",
+        "category": "Card Packs",
+        "version": "0.1.0",
+        "platform": "Windows",
+        "size": "220 MB",
+        "updated_at": "2026-09-04",
+        "download_url": "",
+        "mirror_url": "",
+        "changelog_url": "",
+        "requires": "Latest game build",
+        "published": true,
+        "featured": false
+    }
+]

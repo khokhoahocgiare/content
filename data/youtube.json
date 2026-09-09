@@ -1,0 +1,20 @@
+{
+    "channel_name": "HackinOS",
+    "channel_url": "https://www.youtube.com/@hackinos",
+    "subscribe_url": "https://www.youtube.com/@hackinos?sub_confirmation=1",
+    "featured_videos": [
+        {
+            "title": "Getting Started with OpenCore",
+            "video_id": "w7CGje8NbNk",
+            "published_at": "2026-09-04",
+            "description": "A practical introduction to planning an OpenCore-based Hackintosh build."
+        }
+    ],
+    "playlists": [
+        {
+            "title": "Hackintosh Tutorials",
+            "url": "https://www.youtube.com/playlist?list=PLAYLIST_ID",
+            "description": "OpenCore and Hackintosh tutorials from HackinOS."
+        }
+    ]
+}

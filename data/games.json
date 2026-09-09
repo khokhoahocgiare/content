@@ -1,0 +1,48 @@
+[
+    {
+        "slug": "yugioh-forbidden-legacy",
+        "title": "Yu-Gi-Oh! Forbidden Legacy",
+        "description": "A Yu-Gi-Oh-inspired game project featuring deck building, duels, custom content, and community resources.",
+        "cover": "images/games/yugioh-forbidden-legacy/cover.webp",
+        "banner": "images/games/yugioh-forbidden-legacy/banner.webp",
+        "status": "in-development",
+        "platforms": [
+            "Windows"
+        ],
+        "genre": [
+            "Card Game",
+            "Strategy"
+        ],
+        "version": "0.1.0",
+        "content": "games/yugioh-forbidden-legacy.md",
+        "download_url": "",
+        "demo_url": "",
+        "github_url": "",
+        "featured": true,
+        "published": true,
+        "updated_at": "2026-09-04"
+    },
+    {
+        "slug": "yugioh-eternal-echoes",
+        "title": "Yu-Gi-Oh! Eternal Echoes",
+        "description": "A card-game project built around strategic duels, deck experimentation, and expandable community content.",
+        "cover": "images/games/yugioh-eternal-echoes/cover.webp",
+        "banner": "images/games/yugioh-eternal-echoes/banner.webp",
+        "status": "in-development",
+        "platforms": [
+            "Windows"
+        ],
+        "genre": [
+            "Card Game",
+            "Strategy"
+        ],
+        "version": "0.1.0",
+        "content": "games/yugioh-eternal-echoes.md",
+        "download_url": "",
+        "demo_url": "",
+        "github_url": "",
+        "featured": true,
+        "published": true,
+        "updated_at": "2026-09-04"
+    }
+]

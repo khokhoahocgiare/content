@@ -1,0 +1,26 @@
+[
+    {
+        "slug": "getting-started",
+        "title": "Getting Started with Forbidden Legacy",
+        "description": "Install the game, create a profile, learn the duel interface, and play your first match.",
+        "category": "Beginner Guide",
+        "level": "Beginner",
+        "content": "game-guides/yugioh-forbidden-legacy/getting-started.md",
+        "image": "images/games/yugioh-forbidden-legacy/guide-getting-started.webp",
+        "published": true,
+        "featured": true,
+        "updated_at": "2026-09-04"
+    },
+    {
+        "slug": "deck-building-basics",
+        "title": "Deck Building Basics",
+        "description": "Learn core deck-building rules, card ratios, consistency, and how to test an early deck.",
+        "category": "Deck Building",
+        "level": "Beginner",
+        "content": "game-guides/yugioh-forbidden-legacy/deck-building-basics.md",
+        "image": "",
+        "published": true,
+        "featured": false,
+        "updated_at": "2026-09-04"
+    }
+]

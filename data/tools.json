@@ -1,0 +1,71 @@
+[
+    {
+        "slug": "hackinos-builder-pro",
+        "title": "HackinOS Builder Pro",
+        "description": "An all-in-one desktop tool for planning, building, validating, and maintaining Hackintosh EFI configurations.",
+        "category": "Hackintosh Tools",
+        "type": "Desktop Application",
+        "platforms": [
+            "Windows",
+            "macOS",
+            "Linux"
+        ],
+        "price": "Contact for price",
+        "is_free": false,
+        "status": "available",
+        "version": "1.0.0",
+        "image": "images/tools/hackinos-builder-pro.webp",
+        "content": "tools/hackinos-builder-pro.md",
+        "download_url": "",
+        "github_url": "https://github.com/ihackinOS",
+        "website_url": "",
+        "featured": true,
+        "published": true,
+        "updated_at": "2026-09-04"
+    },
+    {
+        "slug": "opencore-config-assistant",
+        "title": "OpenCore Config Assistant",
+        "description": "A utility for reviewing OpenCore configuration files, organizing patches, and checking common setup mistakes.",
+        "category": "Configuration Tools",
+        "type": "Desktop Utility",
+        "platforms": [
+            "Windows"
+        ],
+        "price": "Free",
+        "is_free": true,
+        "status": "available",
+        "version": "0.9.0",
+        "image": "images/tools/opencore-config-assistant.webp",
+        "content": "tools/opencore-config-assistant.md",
+        "download_url": "",
+        "github_url": "",
+        "website_url": "",
+        "featured": false,
+        "published": true,
+        "updated_at": "2026-09-04"
+    },
+    {
+        "slug": "efi-backup-manager",
+        "title": "EFI Backup Manager",
+        "description": "A lightweight utility for creating dated EFI backups, comparing versions, and restoring a known working configuration.",
+        "category": "EFI Management",
+        "type": "Desktop Utility",
+        "platforms": [
+            "Windows",
+            "macOS"
+        ],
+        "price": "Coming soon",
+        "is_free": false,
+        "status": "coming-soon",
+        "version": "In development",
+        "image": "",
+        "content": "tools/efi-backup-manager.md",
+        "download_url": "",
+        "github_url": "",
+        "website_url": "",
+        "featured": false,
+        "published": true,
+        "updated_at": "2026-09-04"
+    }
+]

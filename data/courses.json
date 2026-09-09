@@ -1,0 +1,15 @@
+[
+    {
+        "slug": "opencore-foundation",
+        "title": "OpenCore Foundation",
+        "description": "A free beginner course covering Hackintosh fundamentals, OpenCore, EFI structure, and installation planning.",
+        "cover": "images/courses/opencore-foundation.webp",
+        "level": "Beginner",
+        "lessons": 12,
+        "duration": "4h 30m",
+        "content": "courses/opencore-foundation.md",
+        "featured": true,
+        "published": true,
+        "updated_at": "2026-09-04"
+    }
+]
