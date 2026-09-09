@@ -57,7 +57,7 @@
         "status": "available",
         "version": "1.0.0",
         "image": "images/tools/npc-lifepoint-zero.webp",
-        "content": "tools/efi-backup-manager.md",
+        "content": "tools/npc-lifepoint-zero.md",
         "download_url": "https://cuty.io/NPCLife0",
         "github_url": "https://github.com/ihackinOS/npc-lifepoint-0-yugioh",
         "website_url": "https://hackinOS.com",
