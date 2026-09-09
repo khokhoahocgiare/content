@@ -1,4 +1,4 @@
-# 🃏 Card Fusion Explorer
+# Card Fusion Explorer
 
 > **Browse cards · Discover fusions · Follow the connections**
 
@@ -17,7 +17,7 @@ Card Fusion Explorer encourages you to ask:
 
 Every card can become the beginning of a new discovery.
 
-## 🌌 What is Card Fusion Explorer?
+## What is Card Fusion Explorer?
 
 Card Fusion Explorer combines four core experiences into one polished desktop application:
 
@@ -44,7 +44,7 @@ More Fusions   More Fusions
        🔮 Discover
 ```
 
-## 💡 Why was it created?
+## Why was it created?
 
 Large card databases are useful, but most are built primarily for **searching**, not for **exploring**.
 
@@ -63,7 +63,7 @@ For a large Fusion-focused card pool, this can quickly feel repetitive.
 
 > **Every card should be a doorway to another discovery.**
 
-## 🎴 Explore the collection
+## Explore the collection
 
 The **Card Browser** presents the entire card pool in a visual, easy-to-scan layout.
 
@@ -86,7 +86,7 @@ Each card can display essential information such as:
 
 The goal is to make the database feel less like a table of records and more like a real card collection waiting to be explored.
 
-## 🔎 Search and filter
+## Search and filter
 
 A large collection needs powerful ways to find exactly what you are looking for.
 
@@ -115,7 +115,7 @@ Combine text search with filters to narrow down the collection with precision.
 
 Whether you are researching a specific card, browsing a favorite archetype, or looking for possible Fusion ingredients, the search system helps you get there faster.
 
-## 📖 Inspect every card
+## Inspect every card
 
 Every card includes a detailed inspector view that brings important information together in one place.
 
@@ -134,7 +134,7 @@ No more switching between multiple pages just to understand a single card.
 
 Open a card, inspect its details, then continue exploring the paths connected to it.
 
-## 🧬 Fusion Explorer
+## Fusion Explorer
 
 The **Fusion Explorer** is the heart of Card Fusion Explorer.
 
@@ -164,7 +164,7 @@ Start from any card, open its Fusion relationships, follow an ingredient, inspec
 
 A single card can reveal an entire network of possibilities.
 
-## 🌌 Designed to feel like a collection
+## Designed to feel like a collection
 
 Card Fusion Explorer is designed to feel personal, visual, and enjoyable—not like a plain database utility.
 
@@ -185,7 +185,7 @@ The goal is not simply to show card data.
 
 > It is to make discovering that data feel rewarding.
 
-## 🎵 Your collection, your atmosphere
+## Your collection, your atmosphere
 
 Card Fusion Explorer includes an optional background music system so you can browse your collection in your preferred atmosphere.
 
@@ -202,7 +202,7 @@ Load your own audio files and create a more immersive card-browsing experience.
 
 Whether you want a calm collection browser, an energetic deck-building session, or a nostalgic Fusion-discovery experience, the atmosphere is yours to shape.
 
-## 🧩 Who is it for?
+## Who is it for?
 
 | User | Why they may enjoy it |
 |---|---|
@@ -213,7 +213,7 @@ Whether you want a calm collection browser, an energetic deck-building session, 
 | 🎴 Collectors | Experience a visual card collection |
 | 🧪 Experimenters | Discover unusual or hidden combinations |
 
-## ✨ The core idea
+## The core idea
 
 Card Fusion Explorer is built around one simple idea:
 
