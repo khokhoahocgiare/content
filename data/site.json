@@ -2,7 +2,7 @@
     "schema_version": 1,
     "site_name": "HackinOS Content",
     "updated_at": "2026-09-04T01:30:00+07:00",
-    "content_base_url": "https://raw.githubusercontent.com/ihackinOS/hackinos-content/main",
+    "content_base_url": "https://raw.githubusercontent.com/khokhoahocgiare/content/main",
     "indexes": {
         "courses": "data/courses.json",
         "efi": "data/efi.json",
