@@ -1,6 +1,6 @@
-# 1. Board Overview
+# Board Overview
 
-## 1.1 Board Info
+## Board Info
 
 - **Manufacturer:** GIGABYTE
 - **Model:** GA‑H81M‑S2PH **rev. 2.3** (micro‑ATX)
@@ -16,7 +16,7 @@
 
 This board is a standard desktop H81 Haswell platform with basic HDMI + VGA video, Realtek ALC887‑class audio, and Realtek GbE, making it typical and well‑understood in the Hackintosh community for macOS up to modern OCLP‑assisted versions.
 
-## 1.2 CPU Family \& CPU Lines
+## CPU Family \& CPU Lines
 
 From LGA1150 + H81:
 
