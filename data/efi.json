@@ -6,10 +6,10 @@
     "cover": "images/efi/gigabyte-h81m-s2ph-cover.webp",
     "banner": "images/efi/gigabyte-h81m-s2ph-banner.webp",
     "platform": "Desktop",
-    "brand": "GIGABYTE",
+    "brand": "Gigabyte",
     "model": "GA-H81-S2PH",
-    "cpu": "INTEL HASWELL",
-    "gpu": "INTEL HD GRAPHICS",
+    "cpu": "Intel Haswell",
+    "gpu": "Intel HD Graphics",
     "motherboard": "INTEL H81",
     "macos": [
       "Tahoe",
