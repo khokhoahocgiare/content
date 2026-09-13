@@ -37,5 +37,44 @@
         "updated_at": "2026-09-04",
         "published": true,
         "featured": true
+    },
+    {
+        "slug": "gigabyte-h410m-s2h-v2",
+        "title": "Gigabyte H410M S2H V2",
+        "description": "A curated OpenCore EFI configuration for the Gigabyte GA-H410M-S2H-V2 with Intel Comet Lake and Intel UHD Graphics.",
+        "cover": "images/efi/gigabyte-h410m-s2h-v2-cover.webp",
+        "banner": "images/efi/gigabyte-h410m-s2h-v2-banner.webp",
+        "platform": "Desktop",
+        "brand": "Gigabyte",
+        "model": "GA-H410M-S2h-V2",
+        "cpu": "Intel Comet Lake",
+        "gpu": "Intel UHD Graphics",
+        "motherboard": "Intel H410M",
+        "macos": [
+            "Tahoe",
+            "Sequoia",
+            "Sonoma",
+            "Ventura",
+            "Monterey",
+            "Bigsur",
+            "Catalina",
+            "Mojave",
+            "High Sierra"
+        ],
+        "status": "stable",
+        "working": [
+            "Wi-Fi",
+            "Bluetooth",
+            "Audio",
+            "Sleep",
+            "Battery"
+        ],
+        "guide": "efi-guides/gigabyte-h410m-s2h-v2.md",
+        "download_url": "https://github.com/ihackinOS/your-efi-repository/releases/download/v1.0/dell-latitude-7490-efi.zip",
+        "version": "1.0.0",
+        "opencore_version": "1.0.5",
+        "updated_at": "2026-09-04",
+        "published": true,
+        "featured": true
     }
 ]
