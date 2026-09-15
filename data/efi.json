@@ -92,5 +92,53 @@
     "updated_at": "2026-09-15",
     "published": true,
     "featured": true
+  },
+  {
+    "slug": "gigabyte-a520m-k-v2-opencore-efi",
+    "title": "GIGABYTE A520M K V2 OPENCORE EFI",
+    "description": "A curated OpenCore EFI configuration for the GIGABYTE A520M K V2 OPENCORE EFI.",
+    "cover": "https://raw.githubusercontent.com/khokhoahocgiare/content/main/images/efi/gigabyte-a520-k-v2-cover.webp",
+    "banner": "https://raw.githubusercontent.com/khokhoahocgiare/content/main/images/efi/gigabyte-a520-k-v2-banner.webp",
+    "platform": "Desktop",
+    "brand": "Gigabyte",
+    "model": "GA-A520M-K-V2",
+    "cpu": "AMD Ryzen™ 3000/4000/5000",
+    "gpu": "APUs",
+    "motherboard": "GA-A520M-K-V2",
+    "macos": [
+      "Tahoe",
+      "Sequoia",
+      "Sonoma",
+      "Ventura",
+      "Monterey",
+      "Big Sur",
+      "Catalina",
+      "Mojave",
+      "High Sierra",
+      "Sierra"
+    ],
+    "status": "Stable",
+    "working": [
+      "Wi-Fi",
+      "Bluetooth",
+      "Audio",
+      "Ethernet",
+      "Sleep",
+      "USB",
+      "Battery",
+      "iMessage",
+      "FaceTime",
+      "AirDrop",
+      "Handoff",
+      "Sidecar",
+      "DRM"
+    ],
+    "guide": "efi-guides/gigabyte-a520m-k-v2-opencore-efi.md",
+    "download_url": "https://cuty.io/DGAA520MKV2",
+    "version": "1.0.7",
+    "opencore_version": "1.0.7",
+    "updated_at": "2026-09-15",
+    "published": true,
+    "featured": true
   }
 ]
