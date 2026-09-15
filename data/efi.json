@@ -140,5 +140,53 @@
     "updated_at": "2026-09-15",
     "published": true,
     "featured": true
+  },
+  {
+    "slug": "gigabyte-h81m-ds2-opencore-efi",
+    "title": "GIGABYTE H81M DS2 OPENCORE EFI",
+    "description": "A curated OpenCore EFI configuration for the GIGABYTE H81M DS2 OPENCORE EFI.",
+    "cover": "https://raw.githubusercontent.com/khokhoahocgiare/content/main/images/efi/gigabyte-h81m-ds2-cover.webp",
+    "banner": "https://raw.githubusercontent.com/khokhoahocgiare/content/main/images/efi/gigabyte-h81m-ds2-banner.webp",
+    "platform": "Desktop",
+    "brand": "Gigabyte",
+    "model": "GA-H81M-DS2",
+    "cpu": "Intel Haswell",
+    "gpu": "Intel HD Graphics",
+    "motherboard": "GA-H81M-DS2",
+    "macos": [
+      "Tahoe",
+      "Sequoia",
+      "Sonoma",
+      "Ventura",
+      "Monterey",
+      "Big Sur",
+      "Catalina",
+      "Mojave",
+      "High Sierra",
+      "Sierra"
+    ],
+    "status": "Stable",
+    "working": [
+      "Wi-Fi",
+      "Bluetooth",
+      "Audio",
+      "Ethernet",
+      "Sleep",
+      "USB",
+      "Battery",
+      "iMessage",
+      "FaceTime",
+      "AirDrop",
+      "Handoff",
+      "Sidecar",
+      "DRM"
+    ],
+    "guide": "efi-guides/gigabyte-h81m-ds2-opencore-efi.md",
+    "download_url": "https://cuty.io/DGAH81MDS2",
+    "version": "1.0.7",
+    "opencore_version": "1.0.7",
+    "updated_at": "2026-09-15",
+    "published": true,
+    "featured": true
   }
 ]
