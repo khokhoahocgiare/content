@@ -86,5 +86,27 @@
         "featured": true,
         "published": true,
         "updated_at": "2026-09-10"
+    },
+    {
+        "slug": "dragon-pack-player",
+        "title": "Dragon Pack Player",
+        "description": "The Dragon Deck player is a tool for creating dragon decks, combining Titan Dragons with rare cards like Megamorph and Sword of Revealing Light to ensure an easy start.",
+        "category": "Yugioh Game",
+        "type": "Desktop Utility",
+        "platforms": [
+            "Windows"
+        ],
+        "price": "Free",
+        "is_free": true,
+        "status": "Available",
+        "version": "1.0.0",
+        "image": "images/tools/dragon-pack-player.webp",
+        "content": "tools/dragon-pack-player.md",
+        "download_url": "https://cuty.io/NPCLife0",
+        "github_url": "https://github.com/ihackinOS/Easy-Yugioh-Legacy-Tool",
+        "website_url": "https://hackinOS.com",
+        "featured": true,
+        "published": true,
+        "updated_at": "2026-09-19"
     }
 ]
